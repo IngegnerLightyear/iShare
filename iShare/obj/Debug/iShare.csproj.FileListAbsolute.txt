@@ -1,0 +1,981 @@
+c:\users\giuseppe\documents\visual studio 2017\Projects\iShare\iShare\bin\Debug\iShare.exe.config
+c:\users\giuseppe\documents\visual studio 2017\Projects\iShare\iShare\bin\Debug\iShare.exe
+c:\users\giuseppe\documents\visual studio 2017\Projects\iShare\iShare\bin\Debug\iShare.pdb
+c:\users\giuseppe\documents\visual studio 2017\Projects\iShare\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+c:\users\giuseppe\documents\visual studio 2017\Projects\iShare\iShare\obj\Debug\iShare.Properties.Resources.resources
+c:\users\giuseppe\documents\visual studio 2017\Projects\iShare\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+c:\users\giuseppe\documents\visual studio 2017\Projects\iShare\iShare\obj\Debug\iShare.exe
+c:\users\giuseppe\documents\visual studio 2017\Projects\iShare\iShare\obj\Debug\iShare.pdb
+\\Mac\Google Drive\Progetto_PDS\iShare-GB\iShare\bin\Debug\iShare.exe.config
+\\Mac\Google Drive\Progetto_PDS\iShare-GB\iShare\bin\Debug\iShare.exe
+\\Mac\Google Drive\Progetto_PDS\iShare-GB\iShare\bin\Debug\iShare.pdb
+\\Mac\Google Drive\Progetto_PDS\iShare-GB\iShare\obj\Debug\iShare.Invio.resources
+\\Mac\Google Drive\Progetto_PDS\iShare-GB\iShare\obj\Debug\iShare.Properties.Resources.resources
+\\Mac\Google Drive\Progetto_PDS\iShare-GB\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+\\Mac\Google Drive\Progetto_PDS\iShare-GB\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+\\Mac\Google Drive\Progetto_PDS\iShare-GB\iShare\obj\Debug\iShare.exe
+\\Mac\Google Drive\Progetto_PDS\iShare-GB\iShare\obj\Debug\iShare.pdb
+\\Mac\Google Drive\Progetto_PDS\iShare-GB\iShare\obj\Debug\iShare.WelcomeForm.resources
+\\Mac\Google Drive\Progetto_PDS\iShare-GB\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare-GB\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare-GB\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare-GB\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare-GB\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare-GB\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare-GB\iShare\bin\Debug\iShare.exe.config
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare-GB\iShare\bin\Debug\iShare.exe
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare-GB\iShare\bin\Debug\iShare.pdb
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare-GB\iShare\obj\Debug\iShare.exe
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare-GB\iShare\obj\Debug\iShare.pdb
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare-GB\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare-GB\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare-GB\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare-GB\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare-GB\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare-GB\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare-GB\iShare\bin\Debug\iShare.exe.config
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare-GB\iShare\bin\Debug\iShare.exe
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare-GB\iShare\bin\Debug\iShare.pdb
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare-GB\iShare\obj\Debug\iShare.exe
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare-GB\iShare\obj\Debug\iShare.pdb
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare-GB\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+E:\iShare-GB\iShare\bin\Debug\iShare.exe.config
+E:\iShare-GB\iShare\bin\Debug\iShare.exe
+E:\iShare-GB\iShare\obj\Debug\iShare.WelcomeForm.resources
+E:\iShare-GB\iShare\obj\Debug\iShare.Invio.resources
+E:\iShare-GB\iShare\obj\Debug\iShare.Properties.Resources.resources
+E:\iShare-GB\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+E:\iShare-GB\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+E:\iShare-GB\iShare\obj\Debug\iShare.exe
+E:\iShare-GB\iShare\obj\Debug\iShare.pdb
+E:\iShare-GB\iShare\bin\Debug\iShare.pdb
+F:\iShare-GB\iShare\bin\Debug\iShare.exe.config
+F:\iShare-GB\iShare\bin\Debug\iShare.exe
+F:\iShare-GB\iShare\bin\Debug\iShare.pdb
+F:\iShare-GB\iShare\obj\Debug\iShare.WelcomeForm.resources
+F:\iShare-GB\iShare\obj\Debug\iShare.Invio.resources
+F:\iShare-GB\iShare\obj\Debug\iShare.Properties.Resources.resources
+F:\iShare-GB\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+F:\iShare-GB\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+F:\iShare-GB\iShare\obj\Debug\iShare.exe
+F:\iShare-GB\iShare\obj\Debug\iShare.pdb
+U:\iShare-GG\iShare\bin\Debug\iShare.exe.config
+U:\iShare-GG\iShare\bin\Debug\iShare.exe
+U:\iShare-GG\iShare\bin\Debug\iShare.pdb
+U:\iShare-GG\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+U:\iShare-GG\iShare\obj\Debug\iShare.WelcomeForm.resources
+U:\iShare-GG\iShare\obj\Debug\iShare.Invio.resources
+U:\iShare-GG\iShare\obj\Debug\iShare.Properties.Resources.resources
+U:\iShare-GG\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+U:\iShare-GG\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+U:\iShare-GG\iShare\obj\Debug\iShare.exe
+U:\iShare-GG\iShare\obj\Debug\iShare.pdb
+F:\iShare-GG\iShare\bin\Debug\iShare.exe.config
+F:\iShare-GG\iShare\bin\Debug\iShare.exe
+F:\iShare-GG\iShare\bin\Debug\iShare.pdb
+F:\iShare-GG\iShare\obj\Debug\iShare.WelcomeForm.resources
+F:\iShare-GG\iShare\obj\Debug\iShare.Invio.resources
+F:\iShare-GG\iShare\obj\Debug\iShare.Properties.Resources.resources
+F:\iShare-GG\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+F:\iShare-GG\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+F:\iShare-GG\iShare\obj\Debug\iShare.exe
+F:\iShare-GG\iShare\obj\Debug\iShare.pdb
+F:\iShare-GG\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+D:\iShare-GG New\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+D:\iShare-GG New\iShare\obj\Debug\iShare.WelcomeForm.resources
+D:\iShare-GG New\iShare\obj\Debug\iShare.Invio.resources
+D:\iShare-GG New\iShare\obj\Debug\iShare.Properties.Resources.resources
+D:\iShare-GG New\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+D:\iShare-GG New\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+D:\iShare-GG New\iShare\bin\Debug\iShare.exe.config
+D:\iShare-GG New\iShare\bin\Debug\iShare.exe
+D:\iShare-GG New\iShare\bin\Debug\iShare.pdb
+D:\iShare-GG New\iShare\obj\Debug\iShare.exe
+D:\iShare-GG New\iShare\obj\Debug\iShare.pdb
+F:\iShare-GG New\iShare\bin\Debug\iShare.exe.config
+F:\iShare-GG New\iShare\bin\Debug\iShare.exe
+F:\iShare-GG New\iShare\bin\Debug\iShare.pdb
+F:\iShare-GG New\iShare\obj\Debug\iShare.WelcomeForm.resources
+F:\iShare-GG New\iShare\obj\Debug\iShare.Invio.resources
+F:\iShare-GG New\iShare\obj\Debug\iShare.Properties.Resources.resources
+F:\iShare-GG New\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+F:\iShare-GG New\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+F:\iShare-GG New\iShare\obj\Debug\iShare.exe
+F:\iShare-GG New\iShare\obj\Debug\iShare.pdb
+F:\iShare-GG New\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+V:\Progetto_PDS\iShare - New\iShare\bin\Debug\iShare.exe.config
+V:\Progetto_PDS\iShare - New\iShare\bin\Debug\iShare.exe
+V:\Progetto_PDS\iShare - New\iShare\bin\Debug\iShare.pdb
+V:\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+V:\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.WelcomeForm.resources
+V:\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.Invio.resources
+V:\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.Properties.Resources.resources
+V:\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+V:\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+V:\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.exe
+V:\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.pdb
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - New\iShare\bin\Debug\iShare.exe.config
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - New\iShare\bin\Debug\iShare.exe
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - New\iShare\bin\Debug\iShare.pdb
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.exe
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.pdb
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - New\iShare\bin\Debug\iShare.exe.config
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - New\iShare\bin\Debug\iShare.exe
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - New\iShare\bin\Debug\iShare.pdb
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.exe
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.pdb
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.AcceptFile.resources
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.AcceptFile.resources
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.Progress.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+\\Mac\Google Drive\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.AcceptFile.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.WelcomeForm.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.Invio.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.Progress.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.Properties.Resources.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+\\Mac\Google Drive\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+\\Mac\Google Drive\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.exe
+\\Mac\Google Drive\Progetto_PDS\iShare - New\iShare\obj\Debug\iShare.pdb
+\\Mac\Google Drive\Progetto_PDS\iShare - New\iShare\bin\Debug\iShare.exe.config
+\\Mac\Google Drive\Progetto_PDS\iShare - New\iShare\bin\Debug\iShare.exe
+\\Mac\Google Drive\Progetto_PDS\iShare - New\iShare\bin\Debug\iShare.pdb
+E:\iShare - New\iShare\bin\Debug\iShare.exe.config
+E:\iShare - New\iShare\bin\Debug\iShare.exe
+E:\iShare - New\iShare\bin\Debug\iShare.pdb
+E:\iShare - New\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+E:\iShare - New\iShare\obj\Debug\iShare.AcceptFile.resources
+E:\iShare - New\iShare\obj\Debug\iShare.WelcomeForm.resources
+E:\iShare - New\iShare\obj\Debug\iShare.Invio.resources
+E:\iShare - New\iShare\obj\Debug\iShare.Progress.resources
+E:\iShare - New\iShare\obj\Debug\iShare.Properties.Resources.resources
+E:\iShare - New\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+E:\iShare - New\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+E:\iShare - New\iShare\obj\Debug\iShare.exe
+E:\iShare - New\iShare\obj\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - New (1)\iShare\bin\Debug\iShare.exe.config
+C:\Users\Thomas\Desktop\iShare - New (1)\iShare\bin\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - New (1)\iShare\bin\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - New (1)\iShare\obj\Debug\iShare.AcceptFile.resources
+C:\Users\Thomas\Desktop\iShare - New (1)\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Thomas\Desktop\iShare - New (1)\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Thomas\Desktop\iShare - New (1)\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Thomas\Desktop\iShare - New (1)\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Thomas\Desktop\iShare - New (1)\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\Thomas\Desktop\iShare - New (1)\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\iShare - New (1)\iShare\obj\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - New (1)\iShare\obj\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - New (1)\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - Stable Version 1.0\iShare\bin\Debug\iShare.exe.config
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - Stable Version 1.0\iShare\bin\Debug\iShare.exe
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - Stable Version 1.0\iShare\bin\Debug\iShare.pdb
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - Stable Version 1.0\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - Stable Version 1.0\iShare\obj\Debug\iShare.AcceptFile.resources
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - Stable Version 1.0\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - Stable Version 1.0\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - Stable Version 1.0\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - Stable Version 1.0\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - Stable Version 1.0\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - Stable Version 1.0\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - Stable Version 1.0\iShare\obj\Debug\iShare.exe
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - Stable Version 1.0\iShare\obj\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.0\iShare\bin\Debug\iShare.exe.config
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.0\iShare\bin\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.0\iShare\bin\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.0\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.0\iShare\obj\Debug\iShare.AcceptFile.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.0\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.0\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.0\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.0\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.0\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.0\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.0\iShare\obj\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.0\iShare\obj\Debug\iShare.pdb
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.1\iShare\bin\Debug\iShare.exe.config
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.1\iShare\bin\Debug\iShare.exe
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.1\iShare\bin\Debug\iShare.pdb
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.1\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.1\iShare\obj\Debug\iShare.AcceptFile.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.1\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.1\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.1\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.1\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.1\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.1\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.1\iShare\obj\Debug\iShare.exe
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.1\iShare\obj\Debug\iShare.pdb
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.2\iShare\bin\Debug\iShare.exe.config
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.2\iShare\bin\Debug\iShare.exe
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.2\iShare\bin\Debug\iShare.pdb
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.2\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.2\iShare\obj\Debug\iShare.AcceptFile.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.2\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.2\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.2\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.2\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.2\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.2\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.2\iShare\obj\Debug\iShare.exe
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.2\iShare\obj\Debug\iShare.pdb
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.3\iShare\bin\Debug\iShare.exe.config
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.3\iShare\bin\Debug\iShare.exe
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.3\iShare\bin\Debug\iShare.pdb
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.3\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.3\iShare\obj\Debug\iShare.AcceptFile.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.3\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.3\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.3\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.3\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.3\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.3\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.3\iShare\obj\Debug\iShare.exe
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.3\iShare\obj\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.1\iShare\bin\Debug\iShare.exe.config
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.1\iShare\bin\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.1\iShare\bin\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.1\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.1\iShare\obj\Debug\iShare.AcceptFile.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.1\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.1\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.1\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.1\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.1\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.1\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.1\iShare\obj\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.1\iShare\obj\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.1\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.3\iShare\bin\Debug\iShare.exe.config
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.3\iShare\bin\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.3\iShare\bin\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.3\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.3\iShare\obj\Debug\iShare.AcceptFile.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.3\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.3\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.3\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.3\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.3\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.3\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.3\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.3\iShare\obj\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.3\iShare\obj\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.4\iShare\bin\Debug\iShare.exe.config
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.4\iShare\bin\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.4\iShare\bin\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.4\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.4\iShare\obj\Debug\iShare.AcceptFile.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.4\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.4\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.4\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.4\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.4\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.4\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.4\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.4\iShare\obj\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.3.4\iShare\obj\Debug\iShare.pdb
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - Stable Version 1.4\iShare\bin\Debug\iShare.exe.config
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - Stable Version 1.4\iShare\bin\Debug\iShare.exe
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - Stable Version 1.4\iShare\bin\Debug\iShare.pdb
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - Stable Version 1.4\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - Stable Version 1.4\iShare\obj\Debug\iShare.AcceptFile.resources
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - Stable Version 1.4\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - Stable Version 1.4\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - Stable Version 1.4\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - Stable Version 1.4\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - Stable Version 1.4\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - Stable Version 1.4\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - Stable Version 1.4\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - Stable Version 1.4\iShare\obj\Debug\iShare.exe
+C:\Users\Thomas\Google Drive\Progetto_PDS\iShare - Stable Version 1.4\iShare\obj\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4\iShare\bin\Debug\iShare.exe.config
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4\iShare\bin\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4\iShare\bin\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4\iShare\obj\Debug\iShare.AcceptFile.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4\iShare\obj\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4\iShare\obj\Debug\iShare.pdb
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.1\iShare\bin\Debug\iShare.exe.config
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.1\iShare\bin\Debug\iShare.exe
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.1\iShare\bin\Debug\iShare.pdb
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.1\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.1\iShare\obj\Debug\iShare.AcceptFile.resources
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.1\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.1\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.1\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.1\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.1\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.1\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.1\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.1\iShare\obj\Debug\iShare.exe
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.1\iShare\obj\Debug\iShare.pdb
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.4.1\iShare\bin\Debug\iShare.exe.config
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.4.1\iShare\bin\Debug\iShare.exe
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.4.1\iShare\bin\Debug\iShare.pdb
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.4.1\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.4.1\iShare\obj\Debug\iShare.AcceptFile.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.4.1\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.4.1\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.4.1\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.4.1\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.4.1\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.4.1\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.4.1\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.4.1\iShare\obj\Debug\iShare.exe
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.4.1\iShare\obj\Debug\iShare.pdb
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.2\iShare\bin\Debug\iShare.exe.config
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.2\iShare\bin\Debug\iShare.exe
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.2\iShare\bin\Debug\iShare.pdb
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.2\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.2\iShare\obj\Debug\iShare.AcceptFile.resources
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.2\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.2\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.2\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.2\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.2\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.2\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.2\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.2\iShare\obj\Debug\iShare.exe
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.2\iShare\obj\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4.2\iShare\bin\Debug\iShare.exe.config
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4.2\iShare\bin\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4.2\iShare\bin\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4.2\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4.2\iShare\obj\Debug\iShare.AcceptFile.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4.2\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4.2\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4.2\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4.2\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4.2\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4.2\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4.2\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4.2\iShare\obj\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4.2\iShare\obj\Debug\iShare.pdb
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.3\iShare\bin\Debug\iShare.exe.config
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.3\iShare\bin\Debug\iShare.exe
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.3\iShare\bin\Debug\iShare.pdb
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.3\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.3\iShare\obj\Debug\iShare.AcceptFile.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.3\iShare\obj\Debug\iShare.Crediti.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.3\iShare\obj\Debug\iShare.WelcomeForm.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.3\iShare\obj\Debug\iShare.Invio.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.3\iShare\obj\Debug\iShare.Progress.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.3\iShare\obj\Debug\iShare.Properties.Resources.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.3\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.3\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.3\iShare\obj\Debug\iShare.exe
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.3\iShare\obj\Debug\iShare.pdb
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.4\iShare\bin\Debug\iShare.exe.config
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.4\iShare\bin\Debug\iShare.exe
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.4\iShare\bin\Debug\iShare.pdb
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.4\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.4\iShare\obj\Debug\iShare.AcceptFile.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.4\iShare\obj\Debug\iShare.Crediti.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.4\iShare\obj\Debug\iShare.WelcomeForm.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.4\iShare\obj\Debug\iShare.Invio.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.4\iShare\obj\Debug\iShare.Progress.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.4\iShare\obj\Debug\iShare.Properties.Resources.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.4\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.4\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.4\iShare\obj\Debug\iShare.exe
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.4\iShare\obj\Debug\iShare.pdb
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.5\iShare\bin\Debug\iShare.exe.config
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.5\iShare\bin\Debug\iShare.exe
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.5\iShare\bin\Debug\iShare.pdb
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.5\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.5\iShare\obj\Debug\iShare.AcceptFile.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.5\iShare\obj\Debug\iShare.Crediti.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.5\iShare\obj\Debug\iShare.WelcomeForm.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.5\iShare\obj\Debug\iShare.Invio.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.5\iShare\obj\Debug\iShare.Progress.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.5\iShare\obj\Debug\iShare.Properties.Resources.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.5\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.5\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.5\iShare\obj\Debug\iShare.exe
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.4.5\iShare\obj\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4.5\iShare\bin\Debug\iShare.exe.config
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4.5\iShare\bin\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4.5\iShare\bin\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4.5\iShare\obj\Debug\iShare.AcceptFile.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4.5\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4.5\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4.5\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4.5\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4.5\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4.5\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4.5\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4.5\iShare\obj\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.4.5\iShare\obj\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5\iShare\bin\Debug\iShare.exe.config
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5\iShare\bin\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5\iShare\bin\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5\iShare\obj\Debug\iShare.AcceptFile.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5\iShare\obj\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5\iShare\obj\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.1\iShare\bin\Debug\iShare.exe.config
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.1\iShare\bin\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.1\iShare\bin\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.1\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.1\iShare\obj\Debug\iShare.AcceptFile.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.1\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.1\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.1\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.1\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.1\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.1\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.1\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.1\iShare\obj\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.1\iShare\obj\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.3\iShare\bin\Debug\iShare.exe.config
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.3\iShare\bin\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.3\iShare\bin\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.3\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.3\iShare\obj\Debug\iShare.AcceptFile.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.3\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.3\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.3\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.3\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.3\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.3\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.3\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.3\iShare\obj\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.3\iShare\obj\Debug\iShare.pdb
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.4\iShare\bin\Debug\iShare.exe.config
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.4\iShare\bin\Debug\iShare.exe
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.4\iShare\bin\Debug\iShare.pdb
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.4\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.4\iShare\obj\Debug\iShare.AcceptFile.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.4\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.4\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.4\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.4\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.4\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.4\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.4\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.4\iShare\obj\Debug\iShare.exe
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.4\iShare\obj\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.5\iShare\bin\Debug\iShare.exe.config
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.5\iShare\bin\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.5\iShare\bin\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.5\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.5\iShare\obj\Debug\iShare.AcceptFile.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.5\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.5\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.5\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.5\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.5\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.5\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.5\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.5\iShare\obj\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.5\iShare\obj\Debug\iShare.pdb
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.5.6\iShare\bin\Debug\iShare.exe.config
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.5.6\iShare\bin\Debug\iShare.exe
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.5.6\iShare\bin\Debug\iShare.pdb
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.5.6\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.5.6\iShare\obj\Debug\iShare.Crediti.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.5.6\iShare\obj\Debug\iShare.WelcomeForm.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.5.6\iShare\obj\Debug\iShare.Invio.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.5.6\iShare\obj\Debug\iShare.Progress.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.5.6\iShare\obj\Debug\iShare.Properties.Resources.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.5.6\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.5.6\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.5.6\iShare\obj\Debug\iShare.exe
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 1.5.6\iShare\obj\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.6\iShare\bin\Debug\iShare.exe.config
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.6\iShare\bin\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.6\iShare\bin\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.6\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.6\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.6\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.6\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.6\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.6\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.6\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.6\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.6\iShare\obj\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.6\iShare\obj\Debug\iShare.pdb
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.6\iShare\bin\Debug\iShare.exe.config
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.6\iShare\bin\Debug\iShare.exe
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.6\iShare\bin\Debug\iShare.pdb
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.6\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.6\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.6\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.6\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.6\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.6\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.6\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.6\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.6\iShare\obj\Debug\iShare.exe
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.6\iShare\obj\Debug\iShare.pdb
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 1.5.8\iShare\bin\Debug\iShare.exe.config
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 1.5.8\iShare\bin\Debug\iShare.exe
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 1.5.8\iShare\bin\Debug\iShare.pdb
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 1.5.8\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 1.5.8\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 1.5.8\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 1.5.8\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 1.5.8\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 1.5.8\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 1.5.8\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 1.5.8\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 1.5.8\iShare\obj\Debug\iShare.exe
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 1.5.8\iShare\obj\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.8\iShare\bin\Debug\iShare.exe.config
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.8\iShare\bin\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.8\iShare\bin\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.8\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.8\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.8\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.8\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.8\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.8\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.8\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.8\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.8\iShare\obj\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 1.5.8\iShare\obj\Debug\iShare.pdb
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.8\iShare\bin\Debug\iShare.exe.config
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.8\iShare\bin\Debug\iShare.exe
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.8\iShare\bin\Debug\iShare.pdb
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.8\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.8\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.8\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.8\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.8\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.8\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.8\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.8\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.8\iShare\obj\Debug\iShare.exe
+C:\Users\g_x_b\Desktop\iShare - Stable Version 1.5.8\iShare\obj\Debug\iShare.pdb
+C:\Users\g_x_b\Desktop\iShare - Stable Version 2.0\iShare\bin\Debug\iShare.exe.config
+C:\Users\g_x_b\Desktop\iShare - Stable Version 2.0\iShare\bin\Debug\iShare.exe
+C:\Users\g_x_b\Desktop\iShare - Stable Version 2.0\iShare\bin\Debug\iShare.pdb
+C:\Users\g_x_b\Desktop\iShare - Stable Version 2.0\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 2.0\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 2.0\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 2.0\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 2.0\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 2.0\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\g_x_b\Desktop\iShare - Stable Version 2.0\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\g_x_b\Desktop\iShare - Stable Version 2.0\iShare\obj\Debug\iShare.exe
+C:\Users\g_x_b\Desktop\iShare - Stable Version 2.0\iShare\obj\Debug\iShare.pdb
+C:\Users\g_x_b\Desktop\iShare - Stable Version 2.0\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 2.0\iShare\bin\Debug\iShare.exe.config
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 2.0\iShare\bin\Debug\iShare.exe
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 2.0\iShare\bin\Debug\iShare.pdb
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 2.0\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 2.0\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 2.0\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 2.0\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 2.0\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 2.0\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 2.0\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 2.0\iShare\obj\Debug\iShare.exe
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 2.0\iShare\obj\Debug\iShare.pdb
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 2.0\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0\iShare\obj\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0\iShare\obj\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0\iShare\bin\Debug\iShare.exe.config
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0\iShare\bin\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0\iShare\bin\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.1\iShare\bin\Debug\iShare.exe.config
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.1\iShare\bin\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.1\iShare\bin\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.1\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.1\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.1\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.1\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.1\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.1\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.1\iShare\obj\Debug\iShare.csproj.GenerateResource.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.1\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.1\iShare\obj\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.1\iShare\obj\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.2\iShare\bin\Debug\iShare.exe.config
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.2\iShare\bin\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.2\iShare\bin\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.2\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.2\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.2\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.2\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.2\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.2\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.2\iShare\obj\Debug\iShare.csproj.GenerateResource.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.2\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.2\iShare\obj\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.2\iShare\obj\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.3\iShare\bin\Debug\iShare.exe.config
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.3\iShare\bin\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.3\iShare\bin\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.3\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.3\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.3\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.3\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.3\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.3\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.3\iShare\obj\Debug\iShare.csproj.GenerateResource.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.3\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.3\iShare\obj\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.3\iShare\obj\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.4\iShare\bin\Debug\iShare.exe.config
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.4\iShare\bin\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.4\iShare\bin\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.4\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.4\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.4\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.4\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.4\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.4\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.4\iShare\obj\Debug\iShare.csproj.GenerateResource.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.4\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.4\iShare\obj\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.4\iShare\obj\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.5\iShare\bin\Debug\iShare.exe.config
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.5\iShare\bin\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.5\iShare\bin\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.5\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.5\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.5\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.5\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.5\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.5\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.5\iShare\obj\Debug\iShare.csproj.GenerateResource.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.5\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.5\iShare\obj\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.5\iShare\obj\Debug\iShare.pdb
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 2.0.6\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 2.0.6\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 2.0.6\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 2.0.6\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 2.0.6\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 2.0.6\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 2.0.6\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 2.0.6\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 2.0.6\iShare\obj\Debug\iShare.exe
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 2.0.6\iShare\obj\Debug\iShare.pdb
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 2.0.6\iShare\bin\Debug\iShare.exe.config
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 2.0.6\iShare\bin\Debug\iShare.exe
+C:\Users\g_x_b\Google Drive\Progetto_PDS\iShare - Stable Version 2.0.6\iShare\bin\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.6\iShare\bin\Debug\iShare.exe.config
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.6\iShare\bin\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.6\iShare\bin\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.6\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.6\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.6\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.6\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.6\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.6\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.6\iShare\obj\Debug\iShare.csproj.GenerateResource.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.6\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.6\iShare\obj\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 2.0.6\iShare\obj\Debug\iShare.pdb
+C:\Users\g_x_b\Desktop\iShare - Stable Version 2.1\iShare\bin\Debug\iShare.exe.config
+C:\Users\g_x_b\Desktop\iShare - Stable Version 2.1\iShare\bin\Debug\iShare.exe
+C:\Users\g_x_b\Desktop\iShare - Stable Version 2.1\iShare\bin\Debug\iShare.pdb
+C:\Users\g_x_b\Desktop\iShare - Stable Version 2.1\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 2.1\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 2.1\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 2.1\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 2.1\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 2.1\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\g_x_b\Desktop\iShare - Stable Version 2.1\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\g_x_b\Desktop\iShare - Stable Version 2.1\iShare\obj\Debug\iShare.exe
+C:\Users\g_x_b\Desktop\iShare - Stable Version 2.1\iShare\obj\Debug\iShare.pdb
+C:\Users\g_x_b\Desktop\iShare - Stable Version 2.1\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\g_x_b\Desktop\iShare - Stable Version 3\iShare\bin\Debug\iShare.exe.config
+C:\Users\g_x_b\Desktop\iShare - Stable Version 3\iShare\bin\Debug\iShare.exe
+C:\Users\g_x_b\Desktop\iShare - Stable Version 3\iShare\bin\Debug\iShare.pdb
+C:\Users\g_x_b\Desktop\iShare - Stable Version 3\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\g_x_b\Desktop\iShare - Stable Version 3\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 3\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 3\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 3\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 3\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 3\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\g_x_b\Desktop\iShare - Stable Version 3\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\g_x_b\Desktop\iShare - Stable Version 3\iShare\obj\Debug\iShare.exe
+C:\Users\g_x_b\Desktop\iShare - Stable Version 3\iShare\obj\Debug\iShare.pdb
+C:\Users\g_x_b\Desktop\iShare - Stable Version 3.2\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\g_x_b\Desktop\iShare - Stable Version 3.2\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 3.2\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 3.2\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 3.2\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 3.2\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\g_x_b\Desktop\iShare - Stable Version 3.2\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\g_x_b\Desktop\iShare - Stable Version 3.2\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\g_x_b\Desktop\iShare - Stable Version 3.2\iShare\obj\Debug\iShare.exe
+C:\Users\g_x_b\Desktop\iShare - Stable Version 3.2\iShare\obj\Debug\iShare.pdb
+C:\Users\g_x_b\Desktop\iShare - Stable Version 3.2\iShare\bin\Debug\iShare.exe.config
+C:\Users\g_x_b\Desktop\iShare - Stable Version 3.2\iShare\bin\Debug\iShare.exe
+C:\Users\g_x_b\Desktop\iShare - Stable Version 3.2\iShare\bin\Debug\iShare.pdb
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 3.2\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 3.2\iShare\obj\Debug\iShare.Crediti.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 3.2\iShare\obj\Debug\iShare.WelcomeForm.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 3.2\iShare\obj\Debug\iShare.Invio.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 3.2\iShare\obj\Debug\iShare.Progress.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 3.2\iShare\obj\Debug\iShare.Properties.Resources.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 3.2\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 3.2\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 3.2\iShare\obj\Debug\iShare.exe
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 3.2\iShare\obj\Debug\iShare.pdb
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 3.2\iShare\bin\Debug\iShare.exe.config
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 3.2\iShare\bin\Debug\iShare.exe
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 3.2\iShare\bin\Debug\iShare.pdb
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 3.2\iShare\bin\Debug\iShare.exe.config
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 3.2\iShare\bin\Debug\iShare.exe
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 3.2\iShare\bin\Debug\iShare.pdb
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 3.2\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 3.2\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 3.2\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 3.2\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 3.2\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 3.2\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 3.2\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 3.2\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 3.2\iShare\obj\Debug\iShare.exe
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 3.2\iShare\obj\Debug\iShare.pdb
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 3.2 ultima\iShare\bin\Debug\iShare.exe.config
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 3.2 ultima\iShare\bin\Debug\iShare.exe
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 3.2 ultima\iShare\bin\Debug\iShare.pdb
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 3.2 ultima\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 3.2 ultima\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 3.2 ultima\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 3.2 ultima\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 3.2 ultima\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 3.2 ultima\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 3.2 ultima\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 3.2 ultima\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 3.2 ultima\iShare\obj\Debug\iShare.exe
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 3.2 ultima\iShare\obj\Debug\iShare.pdb
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 5.0 ultima funzionante\iShare\bin\Debug\iShare.exe.config
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 5.0 ultima funzionante\iShare\bin\Debug\iShare.exe
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 5.0 ultima funzionante\iShare\bin\Debug\iShare.pdb
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 5.0 ultima funzionante\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 5.0 ultima funzionante\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 5.0 ultima funzionante\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 5.0 ultima funzionante\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 5.0 ultima funzionante\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 5.0 ultima funzionante\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 5.0 ultima funzionante\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 5.0 ultima funzionante\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 5.0 ultima funzionante\iShare\obj\Debug\iShare.exe
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 5.0 ultima funzionante\iShare\obj\Debug\iShare.pdb
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 5.0 Alternative version\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 5.0 Alternative version\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 5.0 Alternative version\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 5.0 Alternative version\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 5.0 Alternative version\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 5.0 Alternative version\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 5.0 Alternative version\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 5.0 Alternative version\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 5.0 Alternative version\iShare\obj\Debug\iShare.exe
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 5.0 Alternative version\iShare\obj\Debug\iShare.pdb
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 5.0 Alternative version\iShare\bin\Debug\iShare.exe.config
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 5.0 Alternative version\iShare\bin\Debug\iShare.exe
+C:\Users\Giuseppe\Desktop\iShare - Stable Version 5.0 Alternative version\iShare\bin\Debug\iShare.pdb
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 5.0 Alternative version\iShare\bin\Debug\iShare.exe.config
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 5.0 Alternative version\iShare\bin\Debug\iShare.exe
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 5.0 Alternative version\iShare\bin\Debug\iShare.pdb
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 5.0 Alternative version\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 5.0 Alternative version\iShare\obj\Debug\iShare.Crediti.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 5.0 Alternative version\iShare\obj\Debug\iShare.WelcomeForm.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 5.0 Alternative version\iShare\obj\Debug\iShare.Invio.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 5.0 Alternative version\iShare\obj\Debug\iShare.Progress.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 5.0 Alternative version\iShare\obj\Debug\iShare.Properties.Resources.resources
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 5.0 Alternative version\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 5.0 Alternative version\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 5.0 Alternative version\iShare\obj\Debug\iShare.exe
+\\Mac\Google Drive\Progetto_PDS\iShare - Stable Version 5.0 Alternative version\iShare\obj\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 5.0 Alternative version\iShare\bin\Debug\iShare.exe.config
+C:\Users\Thomas\Desktop\iShare - Stable Version 5.0 Alternative version\iShare\bin\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 5.0 Alternative version\iShare\bin\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare - Stable Version 5.0 Alternative version\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 5.0 Alternative version\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 5.0 Alternative version\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 5.0 Alternative version\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 5.0 Alternative version\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Thomas\Desktop\iShare - Stable Version 5.0 Alternative version\iShare\obj\Debug\iShare.csproj.GenerateResource.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 5.0 Alternative version\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\iShare - Stable Version 5.0 Alternative version\iShare\obj\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare - Stable Version 5.0 Alternative version\iShare\obj\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare Release\iShare\bin\Debug\iShare.exe.config
+C:\Users\Thomas\Desktop\iShare Release\iShare\bin\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare Release\iShare\bin\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare Release\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Thomas\Desktop\iShare Release\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Thomas\Desktop\iShare Release\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Thomas\Desktop\iShare Release\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Thomas\Desktop\iShare Release\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Thomas\Desktop\iShare Release\iShare\obj\Debug\iShare.csproj.GenerateResource.cache
+C:\Users\Thomas\Desktop\iShare Release\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\iShare Release\iShare\obj\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare Release\iShare\obj\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare Release v1.0\iShare\bin\Debug\iShare.exe.config
+C:\Users\Thomas\Desktop\iShare Release v1.0\iShare\bin\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare Release v1.0\iShare\bin\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare Release v1.0\iShare\obj\Debug\iShare.csprojAssemblyReference.cache
+C:\Users\Thomas\Desktop\iShare Release v1.0\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Thomas\Desktop\iShare Release v1.0\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Thomas\Desktop\iShare Release v1.0\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Thomas\Desktop\iShare Release v1.0\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Thomas\Desktop\iShare Release v1.0\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Thomas\Desktop\iShare Release v1.0\iShare\obj\Debug\iShare.csproj.GenerateResource.cache
+C:\Users\Thomas\Desktop\iShare Release v1.0\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\iShare Release v1.0\iShare\obj\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare Release v1.0\iShare\obj\Debug\iShare.pdb
+C:\Users\Giuseppe\Desktop\iShare Release v1.0\iShare\bin\Debug\iShare.exe.config
+C:\Users\Giuseppe\Desktop\iShare Release v1.0\iShare\bin\Debug\iShare.exe
+C:\Users\Giuseppe\Desktop\iShare Release v1.0\iShare\bin\Debug\iShare.pdb
+C:\Users\Giuseppe\Desktop\iShare Release v1.0\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\Giuseppe\Desktop\iShare Release v1.0\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Giuseppe\Desktop\iShare Release v1.0\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Giuseppe\Desktop\iShare Release v1.0\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Giuseppe\Desktop\iShare Release v1.0\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Giuseppe\Desktop\iShare Release v1.0\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Giuseppe\Desktop\iShare Release v1.0\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\Giuseppe\Desktop\iShare Release v1.0\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Giuseppe\Desktop\iShare Release v1.0\iShare\obj\Debug\iShare.exe
+C:\Users\Giuseppe\Desktop\iShare Release v1.0\iShare\obj\Debug\iShare.pdb
+\\Mac\Google Drive\Progetto_PDS\iShare Release v2.0\iShare\bin\Debug\iShare.exe.config
+\\Mac\Google Drive\Progetto_PDS\iShare Release v2.0\iShare\bin\Debug\iShare.exe
+\\Mac\Google Drive\Progetto_PDS\iShare Release v2.0\iShare\bin\Debug\iShare.pdb
+\\Mac\Google Drive\Progetto_PDS\iShare Release v2.0\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+\\Mac\Google Drive\Progetto_PDS\iShare Release v2.0\iShare\obj\Debug\iShare.Crediti.resources
+\\Mac\Google Drive\Progetto_PDS\iShare Release v2.0\iShare\obj\Debug\iShare.WelcomeForm.resources
+\\Mac\Google Drive\Progetto_PDS\iShare Release v2.0\iShare\obj\Debug\iShare.Invio.resources
+\\Mac\Google Drive\Progetto_PDS\iShare Release v2.0\iShare\obj\Debug\iShare.Progress.resources
+\\Mac\Google Drive\Progetto_PDS\iShare Release v2.0\iShare\obj\Debug\iShare.Properties.Resources.resources
+\\Mac\Google Drive\Progetto_PDS\iShare Release v2.0\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+\\Mac\Google Drive\Progetto_PDS\iShare Release v2.0\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+\\Mac\Google Drive\Progetto_PDS\iShare Release v2.0\iShare\obj\Debug\iShare.exe
+\\Mac\Google Drive\Progetto_PDS\iShare Release v2.0\iShare\obj\Debug\iShare.pdb
+C:\Users\Giuseppe\Desktop\iShare Release v2.0\iShare\bin\Debug\iShare.exe.config
+C:\Users\Giuseppe\Desktop\iShare Release v2.0\iShare\bin\Debug\iShare.exe
+C:\Users\Giuseppe\Desktop\iShare Release v2.0\iShare\bin\Debug\iShare.pdb
+C:\Users\Giuseppe\Desktop\iShare Release v2.0\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Giuseppe\Desktop\iShare Release v2.0\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Giuseppe\Desktop\iShare Release v2.0\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Giuseppe\Desktop\iShare Release v2.0\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Giuseppe\Desktop\iShare Release v2.0\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Giuseppe\Desktop\iShare Release v2.0\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\Giuseppe\Desktop\iShare Release v2.0\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Giuseppe\Desktop\iShare Release v2.0\iShare\obj\Debug\iShare.exe
+C:\Users\Giuseppe\Desktop\iShare Release v2.0\iShare\obj\Debug\iShare.pdb
+C:\Users\Giuseppe\Desktop\iShare Release v2.0\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+\\Mac\Google Drive\Progetto_PDS\iShare Release v3.0\iShare\bin\Debug\iShare.exe.config
+\\Mac\Google Drive\Progetto_PDS\iShare Release v3.0\iShare\bin\Debug\iShare.exe
+\\Mac\Google Drive\Progetto_PDS\iShare Release v3.0\iShare\bin\Debug\iShare.pdb
+\\Mac\Google Drive\Progetto_PDS\iShare Release v3.0\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+\\Mac\Google Drive\Progetto_PDS\iShare Release v3.0\iShare\obj\Debug\iShare.Crediti.resources
+\\Mac\Google Drive\Progetto_PDS\iShare Release v3.0\iShare\obj\Debug\iShare.WelcomeForm.resources
+\\Mac\Google Drive\Progetto_PDS\iShare Release v3.0\iShare\obj\Debug\iShare.Invio.resources
+\\Mac\Google Drive\Progetto_PDS\iShare Release v3.0\iShare\obj\Debug\iShare.Progress.resources
+\\Mac\Google Drive\Progetto_PDS\iShare Release v3.0\iShare\obj\Debug\iShare.Properties.Resources.resources
+\\Mac\Google Drive\Progetto_PDS\iShare Release v3.0\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+\\Mac\Google Drive\Progetto_PDS\iShare Release v3.0\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+\\Mac\Google Drive\Progetto_PDS\iShare Release v3.0\iShare\obj\Debug\iShare.exe
+\\Mac\Google Drive\Progetto_PDS\iShare Release v3.0\iShare\obj\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare Release v3.0\iShare\bin\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare Release v3.0\iShare\bin\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare Release v3.0\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Thomas\Desktop\iShare Release v3.0\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Thomas\Desktop\iShare Release v3.0\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Thomas\Desktop\iShare Release v3.0\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Thomas\Desktop\iShare Release v3.0\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Thomas\Desktop\iShare Release v3.0\iShare\obj\Debug\iShare.csproj.GenerateResource.cache
+C:\Users\Thomas\Desktop\iShare Release v3.0\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\iShare Release v3.0\iShare\obj\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare Release v3.0\iShare\obj\Debug\iShare.pdb
+C:\Users\Giuseppe\Desktop\iShare Release v4.0\iShare\bin\Debug\iShare.exe
+C:\Users\Giuseppe\Desktop\iShare Release v4.0\iShare\bin\Debug\iShare.pdb
+C:\Users\Giuseppe\Desktop\iShare Release v4.0\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\Giuseppe\Desktop\iShare Release v4.0\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Giuseppe\Desktop\iShare Release v4.0\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Giuseppe\Desktop\iShare Release v4.0\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Giuseppe\Desktop\iShare Release v4.0\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Giuseppe\Desktop\iShare Release v4.0\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Giuseppe\Desktop\iShare Release v4.0\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\Giuseppe\Desktop\iShare Release v4.0\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Giuseppe\Desktop\iShare Release v4.0\iShare\obj\Debug\iShare.exe
+C:\Users\Giuseppe\Desktop\iShare Release v4.0\iShare\obj\Debug\iShare.pdb
+C:\Users\Giuseppe\Desktop\iShare Release v4.1\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\Giuseppe\Desktop\iShare Release v4.1\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Giuseppe\Desktop\iShare Release v4.1\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Giuseppe\Desktop\iShare Release v4.1\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Giuseppe\Desktop\iShare Release v4.1\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Giuseppe\Desktop\iShare Release v4.1\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Giuseppe\Desktop\iShare Release v4.1\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\Giuseppe\Desktop\iShare Release v4.1\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Giuseppe\Desktop\iShare Release v4.1\iShare\obj\Debug\iShare.exe
+C:\Users\Giuseppe\Desktop\iShare Release v4.1\iShare\obj\Debug\iShare.pdb
+C:\Users\Giuseppe\Desktop\iShare Release v4.1\iShare\bin\Debug\iShare.exe
+C:\Users\Giuseppe\Desktop\iShare Release v4.1\iShare\bin\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare Release v5.0\iShare\bin\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare Release v5.0\iShare\bin\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare Release v5.0\iShare\obj\Debug\iShare.csprojAssemblyReference.cache
+C:\Users\Thomas\Desktop\iShare Release v5.0\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Thomas\Desktop\iShare Release v5.0\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Thomas\Desktop\iShare Release v5.0\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Thomas\Desktop\iShare Release v5.0\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Thomas\Desktop\iShare Release v5.0\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Thomas\Desktop\iShare Release v5.0\iShare\obj\Debug\iShare.csproj.GenerateResource.cache
+C:\Users\Thomas\Desktop\iShare Release v5.0\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\iShare Release v5.0\iShare\obj\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare Release v5.0\iShare\obj\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare Release v5.1\iShare\bin\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare Release v5.1\iShare\bin\Debug\iShare.pdb
+C:\Users\Thomas\Desktop\iShare Release v5.1\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Thomas\Desktop\iShare Release v5.1\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Thomas\Desktop\iShare Release v5.1\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Thomas\Desktop\iShare Release v5.1\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Thomas\Desktop\iShare Release v5.1\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Thomas\Desktop\iShare Release v5.1\iShare\obj\Debug\iShare.csproj.GenerateResource.cache
+C:\Users\Thomas\Desktop\iShare Release v5.1\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\iShare Release v5.1\iShare\obj\Debug\iShare.exe
+C:\Users\Thomas\Desktop\iShare Release v5.1\iShare\obj\Debug\iShare.pdb
+C:\Users\Giuseppe\Desktop\iShare Release v5.1 - Definitive\iShare\bin\Debug\iShare.exe
+C:\Users\Giuseppe\Desktop\iShare Release v5.1 - Definitive\iShare\bin\Debug\iShare.pdb
+C:\Users\Giuseppe\Desktop\iShare Release v5.1 - Definitive\iShare\obj\Debug\iShare.csprojResolveAssemblyReference.cache
+C:\Users\Giuseppe\Desktop\iShare Release v5.1 - Definitive\iShare\obj\Debug\iShare.Crediti.resources
+C:\Users\Giuseppe\Desktop\iShare Release v5.1 - Definitive\iShare\obj\Debug\iShare.WelcomeForm.resources
+C:\Users\Giuseppe\Desktop\iShare Release v5.1 - Definitive\iShare\obj\Debug\iShare.Invio.resources
+C:\Users\Giuseppe\Desktop\iShare Release v5.1 - Definitive\iShare\obj\Debug\iShare.Progress.resources
+C:\Users\Giuseppe\Desktop\iShare Release v5.1 - Definitive\iShare\obj\Debug\iShare.Properties.Resources.resources
+C:\Users\Giuseppe\Desktop\iShare Release v5.1 - Definitive\iShare\obj\Debug\iShare.csproj.GenerateResource.Cache
+C:\Users\Giuseppe\Desktop\iShare Release v5.1 - Definitive\iShare\obj\Debug\iShare.csproj.CoreCompileInputs.cache
+C:\Users\Giuseppe\Desktop\iShare Release v5.1 - Definitive\iShare\obj\Debug\iShare.exe
+C:\Users\Giuseppe\Desktop\iShare Release v5.1 - Definitive\iShare\obj\Debug\iShare.pdb
